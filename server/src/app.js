@@ -48,7 +48,7 @@ connectDb()
     }
   })
   .then(() => {
-    app.listen(8080, () => console.log("Server is listening on http://localhost:8080"))
+    app.listen(8090, () => console.log("Server is listening on http://localhost:8090"))
   })
   .catch((err) => {
     console.error("Failed to connect to database", err)
