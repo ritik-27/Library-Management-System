@@ -1,4 +1,4 @@
-# 📚 Library Management System
+# 📚 Web - Librarian
 
 A full-stack web application for managing library operations including book inventory, user management, and borrowing/returning workflows. Built with the MERN stack (MongoDB, Express.js, React, Node.js) and featuring role-based access control, real-time inventory tracking, and interactive data visualizations.
 
